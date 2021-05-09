@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036888661936",
+    "project_id": "mipay-2261c",
+    "storage_bucket": "mipay-2261c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036888661936:android:c861ba30f8f3bb95944075",
+        "android_client_info": {
+          "package_name": "com.miracle.mi_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036888661936-3ntl4unv1u4tvfauba2h671laem3eadf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANadIFmvkQ6XwldsO3CZXg3WEYN6HnNZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036888661936-3ntl4unv1u4tvfauba2h671laem3eadf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036888661936-8rmb6iu0uf5791o15ciipunjl025rd9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miracle.miPay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
